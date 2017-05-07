@@ -5,7 +5,8 @@ UFO Coin Crypto Currency - Travelling Faster Than Light Speed
 
 Copyright (c) 2009-2014 The Bitcoin developers
 Copyright (c) 2011-2014 Litecoin Developers
-Copyright (c) 2014 UFO Coin Developers
+Copyright (c) 2017 UFO Coin Developers
+
 
 Community Sites
 ---------------
