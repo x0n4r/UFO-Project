@@ -12,6 +12,15 @@ Community Sites
 Community Official Site
 http://ufocoin.co
 
+Technical site
+http://ufocoin.it
+
+Ufocoin Center
+http://ufocoin.cc
+
+BitcoinTalk
+https://bitcointalk.org/index.php?topic=844754.9999
+
 Reddit
 http://www.reddit.com/r/ufocoin
 
@@ -22,7 +31,7 @@ What is UFO Coin?
 -----------------
 
 - 4 billion total coins
-- 5000 coins per block
+- (2017 May) 1250 coins per block
 - 1 hour (40 blocks) to retarget difficulty at a factor of 2
 - Coins halves per 400000 block 
 
