@@ -13,6 +13,9 @@ Community Sites
 Community Official Site
 http://ufocoin.co
 
+Ufocoin Explorer
+https://chainz.cryptoid.info/ufo/
+
 Technical site
 http://ufocoin.it
 
